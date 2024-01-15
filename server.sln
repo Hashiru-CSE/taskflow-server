@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taskflow", "taskflow\taskflow.csproj", "{43D7426C-ED49-46F8-916A-EAA05AE14146}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taskflow-testing", "taskflow-testing\taskflow-testing.csproj", "{BA2AB194-96F7-488A-BE5A-878FC9826CC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{43D7426C-ED49-46F8-916A-EAA05AE14146}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43D7426C-ED49-46F8-916A-EAA05AE14146}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43D7426C-ED49-46F8-916A-EAA05AE14146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA2AB194-96F7-488A-BE5A-878FC9826CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2AB194-96F7-488A-BE5A-878FC9826CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2AB194-96F7-488A-BE5A-878FC9826CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2AB194-96F7-488A-BE5A-878FC9826CC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
